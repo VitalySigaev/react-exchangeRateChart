@@ -22,3 +22,5 @@
 2. Среднее значение за период
 3. Переключение курсов валют
 4. Компоненты из библиотеки Consta UI Kit
+
+## Посмотреть можно тут: https://vitalysigaev.github.io/react-exchangeratechart/

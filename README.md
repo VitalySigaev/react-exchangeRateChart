@@ -1,4 +1,5 @@
 # Тестовое в _Газпромнефть-ЦР_
+## Посмотреть можно тут: https://vitalysigaev.github.io/react-exchangeratechart/
 
 В рамках данного тестового задания необходимо будет реализовать небольшое React-приложение с использованием библиотеки [**echarts.js**](https://echarts.apache.org/en/index.html) и библиотеки компонентов [**Consta UI Kit**](https://consta.design/libs/uikit)
 
@@ -23,4 +24,4 @@
 3. Переключение курсов валют
 4. Компоненты из библиотеки Consta UI Kit
 
-## Посмотреть можно тут: https://vitalysigaev.github.io/react-exchangeratechart/
+
